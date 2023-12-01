@@ -19,7 +19,11 @@ Em um período de 71 meses, para cada modelo de cada categoria. Ou seja, por alt
 Para isso foi desenvolvido um programa utilizando as bibliotecas Selenium e BeautifulSoup para dar contar dessa automação. Foi feita uma função para criar, de formar aleatória, um tempo de espera entre uma ação e outra, simulando uma ação humana para, dessa forma, evitar problema de não ter tempo o suficiente para carregar a página ou algo do tipo.
 
 ## Base de dados
-A base de dados construída é disponibilizada, aqui, para que todos possam fazer um projeto!
+A base de dados construída é disponibilizada, aqui, para que todos possam fazer um projeto!  
+Para base de dados separada e possa treinar toda a ETL, clique [aqui](https://github.com/jeantorre/dados_FIPE/tree/main/dbs_individuais). Para a base de dados totalmente tratada, clique [aqui](https://github.com/jeantorre/dados_FIPE/tree/main/documents).
+
+## Documentação
+Acha que esqueci de anotar minhas dificuldades, né? Pois [tome](https://github.com/jeantorre/dados_FIPE/blob/main/documents/README_FIPE.md)!
 
 ## Referências
 * Os carros mais vendidos de 2018 por segmento. **Auto Esporte**, 2019. Disponível em: <https://autoesporte.globo.com/mercado/noticia/2019/01/os-carros-mais-vendidos-de-2018.ghtml>. Acesso em 29 de nov. de 2023.
