@@ -24,3 +24,4 @@ A base de dados construída é disponibilizada, aqui, para que todos possam faze
 ## Referências
 * Os carros mais vendidos de 2018 por segmento. **Auto Esporte**, 2019. Disponível em: <https://autoesporte.globo.com/mercado/noticia/2019/01/os-carros-mais-vendidos-de-2018.ghtml>. Acesso em 29 de nov. de 2023.
 * Preço Médio de Veículos. **FIPE**, 2023. Disponível em: <https://veiculos.fipe.org.br/>. Acesso em 29 de nov. de 2023.
+* Salário Mínimo. **Justiça do Trabalho TRT da 3ª Região (MG)**, 2023. Disponível em: <https://portal.trt3.jus.br/internet/servicos/valores/salario-minimo>. Acesso em 30 de nov. de 2023.
